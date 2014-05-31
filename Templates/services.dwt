@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="LevelOne Technology : National Provider of Network Infrastructure Solutions" />
+<meta name="keywords" content="LevelOne, Technology, national, provider, network, infrastructure, solutions" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>LevelOne Technology : National Provider of Network Infrastructure Solutions</title>
+<!-- TemplateEndEditable -->
+<link href="../stylesheets/main.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+<div id="header"><img src="../images/banner.png" alt="National Provider of Network Infrastructure Solutions" width="780" height="62" border="0" usemap="#Map" />
+<map name="Map" id="Map"><area shape="rect" coords="15,7,186,55" href="../index.html" alt="LevelOne Technology" />
+</map></div>
+<div id="navbar"><!-- TemplateBeginEditable name="links" -->
+  <p><a href="../index.html" class="active">Home</a> | <a href="#">Services</a> | <a href="#">Partners</a> | <a href="#">Contact Us</a> | <a href="#">Portfolio</a></p>
+<!-- TemplateEndEditable --></div>
+<div id="subheader"><!-- TemplateBeginEditable name="pageImage" --><img src="../images/services.jpg" alt="LevelOne Technology" width="780" height="300" /><!-- TemplateEndEditable --></div>
+
+<!-- TemplateBeginEditable name="contents" -->
+<div id="contentWrapper">
+  <div id="content">
+    <p class="intro">LevelOne understands the importance and challenge of designing, implementing and successfully completing a network infrastructure project. We understand the importance of the planning, communication, and documentation that keeps a successful project on schedule.</p>
+    <h2 class="leveltop">Planning</h2>
+    <p>Every project begins with the need to evaluate and analyze customer specific current and future requirements.  LevelOne project managers work with our customers to formulate the best design using the latest industry information and a wide variety of viable options.  The planning stage also allows for developing timelines and milestones to ensure projects are completed within budget and time allowed.</p>
+    <h2>Implementation</h2>
+    <p>Successful implementation of a structured cabling system begins with certified installation experts. Our technicians are trained and certified through several major structured cabling manufacturers. Our experienced and knowledgeable staff ensures that your infrastructure is installed, tested, and documented according to the most recent industry standards.</p>
+    <h2>Maintenance</h2>
+    <p>Once a project is completed, we do not consider it an end to the relationship with our customer. LevelOne will provide scheduled or on call maintenance services for your Moves, Adds and Changes (MAC).  Additionally, LevelOne will cross train your in-house technicians to perform minor maintenance procedures that will not void manufacturer warranties.</p>
+    <h2>Satisfaction</h2>
+    <p>Long term customer satisfaction and quality installations are the driving factor in the way LevelOne conducts business. LevelOne subscribes to the philosophy that every customer is a partner. Every installation must meet   or exceed customer expectation.</p>
+    <p>&nbsp;</p>
+  </div>
+  <div id="references">
+    <h3 class="references">Education References</h3>
+    <ul class="unordered">
+      <li>Baylor University</li>
+      <li>Waco ISD</li>
+      <li>Snyder ISD</li>
+      <li>Teague ISD</li>
+      <li>Rice ISD</li>
+      <li>Corsicana ISD</li>
+      <li>Sweetwater ISD</li>
+      <li>Westbrook ISD</li>
+      <li>Hearne ISD</li>
+      <li>Region VIII Servie Center</li>
+      <li>Brock ISD</li>
+    </ul>
+    <h3 class="references">Commerical References</h3>
+    <ul class="unordered">
+      <li>Time Warner</li>
+      <li>Jackson Memorial Hospital</li>
+      <li>Hillcrest Hospital</li>
+      <li>Enterasys Networks</li>
+      <li>Whiting Turner Contracting</li>
+      <li>T F Harper and Associates</li>
+      <li>Convergys</li>
+      <li>Sanderson Farms, Inc</li>
+      <li>Rush Enterprises</li>
+      <li>Berry and Clay, Inc.</li>
+    </ul>
+  </div>
+  <p>&nbsp;</p>
+</div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="footer" -->
+<div id="footer">
+  <p>LevelOne Technology &#8226; 300 South 13th Street &#8226; Waco, Texas 76701 &#8226; Phone: 254.224.8012<br />
+    &copy; Copyright 2008 LevelOne Technology. All rights reserved.</p>
+</div>
+<!-- TemplateEndEditable --></div>
+</body>
+</html>
